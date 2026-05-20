@@ -95,6 +95,11 @@ Currently at **OptivalueTek India** — building Java 21 / Spring Boot 3.5 micro
 ## 📝 Latest writing
 
 <!-- BLOG-POST-LIST:START -->
+- [AI learning hub — home](https://sharpbyte.dev/)
+- [Learning paths overview](https://sharpbyte.dev/learn/)
+- [Interview ready — theory and system design](https://sharpbyte.dev/learn/interview-ready/)
+- [Path A — Foundations &lpar;ML → LLM&rpar;](https://sharpbyte.dev/learn/foundations-ml/)
+- [Path B — Applied LLM engineering](https://sharpbyte.dev/learn/applied-llm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
