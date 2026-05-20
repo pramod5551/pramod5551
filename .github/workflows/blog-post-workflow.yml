@@ -19,7 +19,7 @@ jobs:
       - name: Pull latest posts from sharpbyte.dev
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://sharpbyte.dev/feed.xml"
+          feed_list: "https://www.sharpbyte.dev/feed.xml"
           max_post_count: 5
           readme_path: README.md
           gh_token: ${{ secrets.GITHUB_TOKEN }}
