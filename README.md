@@ -80,8 +80,13 @@ Currently at **OptivalueTek India** — building Java 21 / Spring Boot 3.5 micro
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=pramod5551&show_icons=true&theme=transparent&hide_border=true&title_color=185FA5&icon_color=0F6E56&text_color=444441&count_private=true" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramod5551&layout=compact&theme=transparent&hide_border=true&title_color=185FA5&text_color=444441&langs_count=6" alt="Top languages"/>
+<img src="https://streak-stats.demolab.com?user=pramod5551&theme=transparent&hide_border=true&ring=185FA5&fire=0F6E56&currStreakLabel=185FA5&sideLabels=185FA5&dates=888780" alt="GitHub streak stats"/>
+
+<br/>
+
+![Java](https://img.shields.io/badge/Primary%20Language-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Secondary%20Language-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+[![GitHub followers](https://img.shields.io/github/followers/pramod5551?style=flat-square&label=Followers&color=185FA5)](https://github.com/pramod5551?tab=followers)
 
 </div>
 
@@ -90,7 +95,6 @@ Currently at **OptivalueTek India** — building Java 21 / Spring Boot 3.5 micro
 ## 📝 Latest writing
 
 <!-- BLOG-POST-LIST:START -->
-> Posts from [sharpbyte.dev](https://sharpbyte.dev/about) will appear here automatically once you set up the RSS action (see update guide below).
 <!-- BLOG-POST-LIST:END -->
 
 ---
