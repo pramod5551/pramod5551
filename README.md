@@ -95,11 +95,11 @@ Currently at **OptivalueTek India** — building Java 21 / Spring Boot 3.5 micro
 ## 📝 Latest writing
 
 <!-- BLOG-POST-LIST:START -->
-- [AI learning hub — home](https://sharpbyte.dev/)
-- [Learning paths overview](https://sharpbyte.dev/learn/)
-- [Interview ready — theory and system design](https://sharpbyte.dev/learn/interview-ready/)
-- [Path A — Foundations &lpar;ML → LLM&rpar;](https://sharpbyte.dev/learn/foundations-ml/)
-- [Path B — Applied LLM engineering](https://sharpbyte.dev/learn/applied-llm/)
+- [Air-gapped defense assistant · How would you Design?](https://www.sharpbyte.dev/system-design/design-airgapped-defense-assistant.html)
+- [Live knowledge RAG · Trading desk · How would you Design?](https://www.sharpbyte.dev/system-design/design-rag-live-trading-desk.html)
+- [Real-time RAG sub-200ms · How would you Design?](https://www.sharpbyte.dev/system-design/design-realtime-rag-sub200ms.html)
+- [Regulated LLM for banking · How would you Design?](https://www.sharpbyte.dev/system-design/design-regulated-llm-bank.html)
+- [Production RAG pipeline · How would you Design?](https://www.sharpbyte.dev/system-design/design-production-rag-pipeline.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
