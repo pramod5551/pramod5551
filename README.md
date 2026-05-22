@@ -95,11 +95,11 @@ Currently at **OptivalueTek India** — building Java 21 / Spring Boot 3.5 micro
 ## 📝 Latest writing
 
 <!-- BLOG-POST-LIST:START -->
-- [Air-gapped defense assistant · How would you Design?](https://www.sharpbyte.dev/system-design/design-airgapped-defense-assistant.html)
-- [Live knowledge RAG · Trading desk · How would you Design?](https://www.sharpbyte.dev/system-design/design-rag-live-trading-desk.html)
-- [Real-time RAG sub-200ms · How would you Design?](https://www.sharpbyte.dev/system-design/design-realtime-rag-sub200ms.html)
-- [Regulated LLM for banking · How would you Design?](https://www.sharpbyte.dev/system-design/design-regulated-llm-bank.html)
-- [Production RAG pipeline · How would you Design?](https://www.sharpbyte.dev/system-design/design-production-rag-pipeline.html)
+- [Terraform: first project · Infrastructure](https://www.sharpbyte.dev/devops/infrastructure/infrastructure-terraform-first-project.html)
+- [Infrastructure &amp; IaC explained · DevOps](https://www.sharpbyte.dev/devops/infrastructure/infrastructure-iac-explained.html)
+- [Deploy to Kubernetes from CI · CI/CD](https://www.sharpbyte.dev/devops/cicd/cicd-deploy-kubernetes-from-ci.html)
+- [Environments, gates &amp; promotion · CI/CD](https://www.sharpbyte.dev/devops/cicd/cicd-environments-gates-promotion.html)
+- [Container images in pipelines · CI/CD](https://www.sharpbyte.dev/devops/cicd/cicd-container-images-pipelines.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
