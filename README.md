@@ -97,9 +97,9 @@ Currently at **OptivalueTek India** — building Java 21 / Spring Boot 3.5 micro
 <!-- BLOG-POST-LIST:START -->
 - [Terraform: first project · Infrastructure](https://www.sharpbyte.dev/devops/infrastructure/infrastructure-terraform-first-project.html)
 - [Infrastructure &amp; IaC explained · DevOps](https://www.sharpbyte.dev/devops/infrastructure/infrastructure-iac-explained.html)
+- [Multimodal document AI · Applied AI](https://www.sharpbyte.dev/learn/applied-ai/shipping/multimodal-document-ai.html)
 - [Deploy to Kubernetes from CI · CI/CD](https://www.sharpbyte.dev/devops/cicd/cicd-deploy-kubernetes-from-ci.html)
-- [Environments, gates &amp; promotion · CI/CD](https://www.sharpbyte.dev/devops/cicd/cicd-environments-gates-promotion.html)
-- [Container images in pipelines · CI/CD](https://www.sharpbyte.dev/devops/cicd/cicd-container-images-pipelines.html)
+- [Fine-tuning vs adaptation · Applied AI](https://www.sharpbyte.dev/learn/applied-ai/shipping/fine-tuning-vs-adaptation.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
