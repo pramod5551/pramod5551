@@ -95,11 +95,11 @@ Currently at **OptivalueTek India** — building Java 21 / Spring Boot 3.5 micro
 ## 📝 Latest writing
 
 <!-- BLOG-POST-LIST:START -->
-- [Terraform: first project · Infrastructure](https://www.sharpbyte.dev/devops/infrastructure/infrastructure-terraform-first-project.html)
-- [Infrastructure &amp; IaC explained · DevOps](https://www.sharpbyte.dev/devops/infrastructure/infrastructure-iac-explained.html)
-- [Multimodal document AI · Applied AI](https://www.sharpbyte.dev/learn/applied-ai/shipping/multimodal-document-ai.html)
-- [Deploy to Kubernetes from CI · CI/CD](https://www.sharpbyte.dev/devops/cicd/cicd-deploy-kubernetes-from-ci.html)
-- [Fine-tuning vs adaptation · Applied AI](https://www.sharpbyte.dev/learn/applied-ai/shipping/fine-tuning-vs-adaptation.html)
+- [Kafka Core · sharpbyte.dev](https://www.sharpbyte.dev/kafka-core/)
+- [Docker Core · sharpbyte.dev](https://www.sharpbyte.dev/docker-core/index.html)
+- [K8s Core · sharpbyte.dev](https://www.sharpbyte.dev/k8s-core/index.html)
+- [Production operations · K8s Core](https://www.sharpbyte.dev/k8s-core/production-ops.html)
+- [Workloads · K8s Core](https://www.sharpbyte.dev/k8s-core/workloads.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
