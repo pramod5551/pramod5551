@@ -95,11 +95,11 @@ Currently at **OptivalueTek India** — building Java 21 / Spring Boot 3.5 micro
 ## 📝 Latest writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Applied AI Core · sharpbyte.dev](https://www.sharpbyte.dev/applied-ai/)
+- [DevSec Core · sharpbyte.dev](https://www.sharpbyte.dev/devops/cicd/index.html)
 - [Kafka Core · sharpbyte.dev](https://www.sharpbyte.dev/kafka-core/)
 - [Docker Core · sharpbyte.dev](https://www.sharpbyte.dev/docker-core/index.html)
 - [K8s Core · sharpbyte.dev](https://www.sharpbyte.dev/k8s-core/index.html)
-- [Production operations · K8s Core](https://www.sharpbyte.dev/k8s-core/production-ops.html)
-- [Workloads · K8s Core](https://www.sharpbyte.dev/k8s-core/workloads.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
